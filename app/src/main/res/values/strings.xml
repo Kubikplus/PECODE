@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PECODE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_new_notification">Create new \n Notification</string>
+    <string name="addfragment">AddFragment</string>
+    <string name="removefragment">RemoveFragment</string>
+    <string name="shape">shape</string>
+</resources>
